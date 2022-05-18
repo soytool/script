@@ -34,7 +34,7 @@ https://gitlab.com/soytool/script/-/raw/main/variable/soy_sjzy_data.js
 
 脚本地址:
 仓库1
-https://github.com/soy-tool/app-script/raw/master/app_sjzy.js
+https://github.com/soytool/script/raw/main/app_sjzy.js
 仓库2
 https://gitlab.com/soytool/script/-/raw/main/app_sjzy.js
 
