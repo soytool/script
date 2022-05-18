@@ -21,9 +21,9 @@ https://gitlab.com/soytool/script/-/raw/main/variable/soy_jbxq_data.js
 
 脚本地址
 仓库1
-https://gitee.com/soy-tool/app-script/raw/master/app_sjzy.js
+https://gitee.com/soy-tool/app-script/raw/master/app_jbxq.js
 仓库2
-https://gitlab.com/soytool/script/-/raw/main/app_jhh.js
+https://gitlab.com/soytool/script/-/raw/main/app_jbxq.js
 
 定时最少跑次
 cron 5 8-16 * * *
