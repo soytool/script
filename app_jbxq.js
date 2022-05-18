@@ -2,8 +2,8 @@
 
 软件名称:聚宝星球
 
-项目注册地址:http://juxianghui.longyuedichan.com/jxhapp/
-填写邀请码：965855
+项目注册地址:http://jubao.0514.la:82/h5/page/register-qr.html?c=100502
+填写邀请码：100502
 
 固定变量:
 变量名：soy_yyz_data
