@@ -29,7 +29,8 @@ https://gitee.com/soy-tool/app-script/raw/master/app_sjzy.js
 仓库2
 https://gitlab.com/soytool/script/-/raw/main/app_jhh.js
 
-
+定时12点后最少跑6次
+cron 5 12-18 * * *
 
 */
 
