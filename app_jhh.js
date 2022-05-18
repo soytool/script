@@ -27,6 +27,7 @@ https://gitlab.com/soytool/script/-/raw/main/variable/app_jhh_data.js
 仓库1
 https://gitee.com/soy-tool/app-script/raw/master/app_sjzy.js
 仓库2
+https://gitlab.com/soytool/script/-/raw/main/app_jhh.js
 
 
 
